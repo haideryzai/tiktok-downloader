@@ -1,1 +1,9 @@
+advergic.com, K8CWHmGHh8cAz8XA, DIRECT
+google.com, pub-7124106569313574, DIRECT, f08c47fec0942fa0
+google.com, pub-6267811126171612, DIRECT, f08c47fec0942fa0
+google.com, pub-7124106569313574, RESELLER, f08c47fec0942fa0
+google.com, pub-6267811126171612, RESELLER, f08c47fec0942fa0
+
+#Pub
+
 google.com, pub-6652706064741374, DIRECT, f08c47fec0942fa0
